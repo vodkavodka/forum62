@@ -1,6 +1,6 @@
 # a collection of user review
 reviews:
-  name: "/forum61"
+  name: "/forum62"
   
   # we enable moderation, Pull Request will be created for every review
   moderation: false
